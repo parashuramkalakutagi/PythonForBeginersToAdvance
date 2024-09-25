@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06a5295b-0524-41c3-b67d-643b6217cd18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/py_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py_05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_01.py" afterDir="false" />
     </list>
@@ -39,6 +41,9 @@
   "keyToString": {
     "Python.py_01.executor": "Run",
     "Python.py_02.executor": "Run",
+    "Python.py_03.executor": "Run",
+    "Python.py_04.executor": "Run",
+    "Python.py_05.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
